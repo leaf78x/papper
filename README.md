@@ -1,2 +1,1 @@
-# paper
-the paper part
+Analytical_Derivations_and_Algorithmic_Details
