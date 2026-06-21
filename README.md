@@ -1,2 +1,2 @@
-# papper
-the papper part
+# paper
+the paper part
